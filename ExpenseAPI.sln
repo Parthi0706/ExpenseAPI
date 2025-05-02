@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseAPI.Domain", "..\Exp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseAPI.Data", "..\ExpenseAPI.Data\ExpenseAPI.Data.csproj", "{0B954522-AC69-4440-BD8F-E1A9E09B41B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseAPI.Common", "..\ExpenseAPI.Common\ExpenseAPI.Common.csproj", "{0BE57035-CD9D-4D73-B676-72D7A5D86212}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0B954522-AC69-4440-BD8F-E1A9E09B41B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B954522-AC69-4440-BD8F-E1A9E09B41B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B954522-AC69-4440-BD8F-E1A9E09B41B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE57035-CD9D-4D73-B676-72D7A5D86212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE57035-CD9D-4D73-B676-72D7A5D86212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE57035-CD9D-4D73-B676-72D7A5D86212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE57035-CD9D-4D73-B676-72D7A5D86212}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
